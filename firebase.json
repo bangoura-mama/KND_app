@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "KND_app",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
